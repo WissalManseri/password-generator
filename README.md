@@ -3,6 +3,7 @@
 
 Ce programme génère des mots de passe aléatoires à partir d'une plage de caractères autorisés, qui comprennent des lettres minuscules, des lettres majuscules et des chiffres.
 
+
 # Utilisation
 Pour utiliser ce programme, vous devez avoir Ruby installé sur votre ordinateur.
 Une fois Ruby installé, vous pouvez cloner ce projet sur votre ordinateur en utilisant la commande suivante dans votre terminal :
